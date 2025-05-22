@@ -6,4 +6,4 @@ TICKER='BOI'
 DESCRIPTION='One paw step at a time.'
 OWNER_HANDLE='hakikiceo'
 TOTAL_SUPPLY=1e9 * 1e18 # 1 billion
-POSTING_THRESHOLD=1e6 # 1 million
+POSTING_THRESHOLD=1e6 * 1e18 # 1 million

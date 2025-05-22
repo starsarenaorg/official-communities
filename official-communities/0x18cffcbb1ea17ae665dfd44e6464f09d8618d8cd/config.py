@@ -6,4 +6,4 @@ TICKER='ABC'
 DESCRIPTION='AuTistiC BoYs CLub'
 OWNER_HANDLE='OneWingedShadow'
 TOTAL_SUPPLY=1e9 * 1e18 # 1 billion
-POSTING_THRESHOLD=1e6 # 1 million
+POSTING_THRESHOLD=1e6 * 1e18 # 1 million
