@@ -1,0 +1,9 @@
+CONTRACT_ADDRESS='0xe3f3ef63f193f001d72bb623ca6ece3e71451d3f'
+PAIR_ADDRESS='0x5889789ebf6b4eee040fd42ee33ec2894e714ffe'
+HANDLE='cast3_io'
+NAME='Cast3'
+TICKER='CAST'
+DESCRIPTION='Promoted Posts For The Future Of Social Media. Stop grinding. Start going viral.'
+OWNER_HANDLE='cast3_io'
+TOTAL_SUPPLY=1e8 * 1e18 # 100 million
+POSTING_THRESHOLD=1e5 * 1e18 # 100,000
